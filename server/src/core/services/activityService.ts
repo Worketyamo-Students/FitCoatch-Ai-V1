@@ -1,3 +1,4 @@
+import { NutritionActivity, SleepActivity, SportActivity } from '@prisma/client';
 import prisma from '../config/prisma';
     import { z } from 'zod';
 
