@@ -8,7 +8,7 @@ import { envs } from './core/config/env';
 const swaggerDefinition = {
 	openapi: '3.0.0',
 	info: {
-		title: 'Projet Worketyamo',
+		title: 'FitCoatch Ai',
 		version: '1.0.0',
 		description: 'Documentation '
 	},
